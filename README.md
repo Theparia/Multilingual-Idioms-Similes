@@ -14,7 +14,7 @@ We also observe that open-source models struggle particularly with low-resource 
 
 ## Contact 
 
-The author emails are {paria.khoshtab, namazifard, mostafa.masoudi, ali.akhgary, samin.mehdizadeh, yyaghoobzadeh}@ut.ac.ir
+The author emails are {paria.khoshtab, namazifard, mostafa.masoudi, ali.akhgary, samin.mehdizadeh, y.yaghoobzadeh}@ut.ac.ir
 
 Please contact [] first if you have any questions.
 
