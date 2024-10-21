@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+pandas==2.0.3
+tqdm==4.64.1
+openai==0.28.0
+google-generativeai==0.7.2
