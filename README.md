@@ -1,4 +1,4 @@
-# Comparative Study of Multilingual Idioms and Similes in Large Language Models
+# <p align="center">Comparative Study of Multilingual Idioms and Similes in Large Language Models</p>
 
 ## Table of Contents
 * [Introduction](#introduction)
