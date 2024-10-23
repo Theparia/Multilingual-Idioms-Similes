@@ -18,7 +18,8 @@ The author emails are {paria.khoshtab, namazifard, mostafa.masoudi, ali.akhgary,
 
 Please contact [] first if you have any questions.
 
-## Citation 
+> ## Citation 
+
 @misc{khoshtab2024comparativestudymultilingualidioms,
       title={Comparative Study of Multilingual Idioms and Similes in Large Language Models}, 
       author={Paria Khoshtab and Danial Namazifard and Mostafa Masoudi and Ali Akhgary and Samin Mahdizadeh Sani and Yadollah Yaghoobzadeh},
